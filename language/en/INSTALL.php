@@ -28,7 +28,7 @@ $LNG['menu_install']			= 'Installation';
 $LNG['menu_license']			= 'License';
 $LNG['menu_upgrade']			= 'Upgrade';
 
-$LNG['title_install']			= 'Installation';
+$LNG['title_install']			= 'Installation X';
 
 $LNG['intro_lang']				= 'Language';
 $LNG['intro_install']			= 'To installation';
